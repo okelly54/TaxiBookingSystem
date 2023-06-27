@@ -15,25 +15,22 @@
     </properties>
     <dependencies>
         <dependency>
-            <groupId>com.github.schnitker.logmanager</groupId>
-            <artifactId>logmgr-log4j</artifactId>
-            <version>1.0.2</version>
-        </dependency>
-        <dependency>
             <groupId>com.github.icebergteam</groupId>
             <artifactId>logmanager</artifactId>
             <version>0.0.1</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.postgresql/postgresql -->
         <dependency>
-            <groupId>com.github.icebergteam</groupId>
-            <artifactId>logmanager</artifactId>
-            <version>0.0.1</version>
-        </dependency>
-        <dependency>
-            <groupId>com.github.icebergteam</groupId>
-            <artifactId>logmanager</artifactId>
-            <version>0.0.1</version>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <version>42.6.0</version>
         </dependency>
     </dependencies>
+
+
+
+
+
+
 
 </project>
