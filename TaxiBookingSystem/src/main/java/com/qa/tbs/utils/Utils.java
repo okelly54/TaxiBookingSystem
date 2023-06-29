@@ -1,12 +1,13 @@
 package com.qa.tbs.utils;
 
 import java.util.Scanner;
-import org.apache.log4j.*;
+import java.util.logging.*;
+import java.lang.String;
 
 public class Utils {
 
     // setting rules for input
-    private static final Logger LOGGER = LogManager.getLogger("");
+    private static final Logger LOGGER = LogManager.getLogger(Utils.class.getName());
 
     private final Scanner scanner;
 

@@ -1,4 +1,4 @@
-package com.qa.tbs.service.customer;
+package com.qa.tbs.services.customer;
 
 import com.qa.tbs.entities.Customer;
 

@@ -27,7 +27,6 @@ public class PostgreSQLJDBC {
 
             // methods
 
-
             // clean up
             stmt.close();
             conn.close();
